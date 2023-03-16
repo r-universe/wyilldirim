@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SpatialRoMLE"]
+	path = SpatialRoMLE
+	url = https://github.com/wyilldirim/spatialromle
+	shallow = true
+	registered = true
